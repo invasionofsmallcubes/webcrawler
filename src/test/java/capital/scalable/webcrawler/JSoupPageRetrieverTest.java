@@ -1,8 +1,5 @@
 package capital.scalable.webcrawler;
 
-import capital.scalable.webcrawler.JSoupPageRetriever;
-import capital.scalable.webcrawler.Page;
-import capital.scalable.webcrawler.PageRetriever;
 import okhttp3.mockwebserver.MockWebServer;
 import org.junit.After;
 import org.junit.Before;
