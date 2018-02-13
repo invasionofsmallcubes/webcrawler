@@ -1,7 +1,7 @@
 package capital.scalable.fake;
 
-import capital.scalable.webcrawler.Page;
-import capital.scalable.webcrawler.PageRetriever;
+import capital.scalable.webcrawler.pages.Page;
+import capital.scalable.webcrawler.pages.PageRetriever;
 
 import java.util.Arrays;
 import java.util.List;

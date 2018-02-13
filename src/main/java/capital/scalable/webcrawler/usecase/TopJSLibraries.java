@@ -1,4 +1,8 @@
-package capital.scalable.webcrawler;
+package capital.scalable.webcrawler.usecase;
+
+import capital.scalable.webcrawler.*;
+import capital.scalable.webcrawler.pages.Page;
+import capital.scalable.webcrawler.pages.PageRetriever;
 
 import java.util.List;
 import java.util.concurrent.CompletableFuture;

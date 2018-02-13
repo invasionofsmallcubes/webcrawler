@@ -1,7 +1,7 @@
 package capital.scalable.utils;
 
-import capital.scalable.webcrawler.JSoupPage;
-import capital.scalable.webcrawler.Page;
+import capital.scalable.webcrawler.pages.jsoup.JSoupPage;
+import capital.scalable.webcrawler.pages.Page;
 import okhttp3.mockwebserver.MockResponse;
 
 import java.io.File;

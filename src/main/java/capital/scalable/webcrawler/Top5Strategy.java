@@ -3,6 +3,8 @@ package capital.scalable.webcrawler;
 import java.util.*;
 import java.util.stream.Stream;
 
+import static java.util.Collections.sort;
+import static java.util.Comparator.reverseOrder;
 import static java.util.function.Function.identity;
 import static java.util.stream.Collectors.*;
 
@@ -21,7 +23,7 @@ public class Top5Strategy {
     private List<Result> sortByCount(Map<JSLibrary, Long> librariesWithCount) {
         List<Result> result = new LinkedList<>();
         librariesWithCount.forEach((key, value) -> result.add(new Result(value, key)));
-        Collections.sort(result);
+        sort(result, reverseOrder());
         return result;
     }
 

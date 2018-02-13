@@ -1,6 +1,8 @@
 package capital.scalable;
 
 import capital.scalable.webcrawler.*;
+import capital.scalable.webcrawler.pages.jsoup.JSoupPageRetriever;
+import capital.scalable.webcrawler.usecase.TopJSLibraries;
 
 import static java.lang.System.out;
 

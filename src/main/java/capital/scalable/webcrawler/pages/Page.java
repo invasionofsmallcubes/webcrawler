@@ -1,4 +1,6 @@
-package capital.scalable.webcrawler;
+package capital.scalable.webcrawler.pages;
+
+import capital.scalable.webcrawler.JSLibrary;
 
 import java.util.List;
 

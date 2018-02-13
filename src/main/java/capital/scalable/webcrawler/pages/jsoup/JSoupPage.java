@@ -1,13 +1,17 @@
-package capital.scalable.webcrawler;
+package capital.scalable.webcrawler.pages.jsoup;
 
+import capital.scalable.webcrawler.JSLibrary;
+import capital.scalable.webcrawler.pages.Page;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
 
 import java.io.IOException;
+import java.util.Collections;
 import java.util.List;
 import java.util.Objects;
 
+import static java.util.Collections.emptyList;
 import static java.util.stream.Collectors.toList;
 
 public class JSoupPage implements Page {
@@ -30,7 +34,7 @@ public class JSoupPage implements Page {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        return null;
+        return emptyList();
     }
 
     @Override

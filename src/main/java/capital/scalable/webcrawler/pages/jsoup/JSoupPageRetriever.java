@@ -1,11 +1,15 @@
-package capital.scalable.webcrawler;
+package capital.scalable.webcrawler.pages.jsoup;
 
+import capital.scalable.webcrawler.pages.Page;
+import capital.scalable.webcrawler.pages.PageRetriever;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
 
 import java.io.IOException;
+import java.util.Collections;
 import java.util.List;
 
+import static java.util.Collections.emptyList;
 import static java.util.stream.Collectors.toList;
 import static org.jsoup.Jsoup.connect;
 
@@ -29,6 +33,6 @@ public class JSoupPageRetriever implements PageRetriever {
             e.printStackTrace();
         }
 
-        return null;
+        return emptyList();
     }
 }
