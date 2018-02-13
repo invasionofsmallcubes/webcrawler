@@ -1,15 +1,11 @@
 package capital.scalable;
 
-public class GoogleQueryFormatter {
+import java.util.stream.Stream;
 
-    public String format(String ... queryParams) {
-        StringBuilder result = new StringBuilder();
-        if(queryParams.length != 0) {
-            for (String queryParam : queryParams) {
-                result.append(queryParam).append("+");
-            }
-            return result.substring(0, result.length()-1);
-        }
-        else return result.toString();
+import static java.util.stream.Collectors.joining;
+
+public class GoogleQueryFormatter {
+    public String format(String... queryParams) {
+        return Stream.of(queryParams).collect(joining("+"));
     }
 }
