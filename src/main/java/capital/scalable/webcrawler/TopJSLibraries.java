@@ -1,4 +1,4 @@
-package capital.scalable;
+package capital.scalable.webcrawler;
 
 import java.util.List;
 import java.util.stream.Stream;
@@ -8,7 +8,7 @@ public class TopJSLibraries {
     private final PageRetriever pageRetriever;
     private Top5Strategy top5Strategy;
 
-    TopJSLibraries(GoogleQueryFormatter googleQueryFormatter, PageRetriever pageRetriever, Top5Strategy top5Strategy) {
+    public TopJSLibraries(GoogleQueryFormatter googleQueryFormatter, PageRetriever pageRetriever, Top5Strategy top5Strategy) {
         this.googleQueryFormatter = googleQueryFormatter;
         this.pageRetriever = pageRetriever;
         this.top5Strategy = top5Strategy;

@@ -1,4 +1,4 @@
-package capital.scalable;
+package capital.scalable.webcrawler;
 
 import java.util.*;
 import java.util.stream.Stream;

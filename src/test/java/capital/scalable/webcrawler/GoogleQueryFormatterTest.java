@@ -1,5 +1,6 @@
-package capital.scalable;
+package capital.scalable.webcrawler;
 
+import capital.scalable.webcrawler.GoogleQueryFormatter;
 import org.junit.Test;
 
 import static org.hamcrest.CoreMatchers.is;

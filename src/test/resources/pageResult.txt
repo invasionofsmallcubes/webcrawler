@@ -1,0 +1,1242 @@
+<!DOCTYPE html>
+<html lang="it" dir="ltr">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>fancy restaurant - Traduzione in italiano - esempi inglese | Reverso Context</title>
+<meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'/>
+<meta name="description" content="Traduzioni in contesto per &quot;fancy restaurant&quot; in inglese-italiano da Reverso Context: We went to a fancy restaurant." />
+<link rel="alternate" hreflang="en" href="http://context.reverso.net/translation/english-italian/fancy+restaurant" /><link rel="alternate" hreflang="it" href="http://context.reverso.net/traduzione/inglese-italiano/fancy+restaurant" /><link rel="alternate" href="android-app://com.softissimo.reverso.context/reversocontext/context.reverso.net/traduzione/inglese-italiano/fancy+restaurant" />
+  <meta name="apple-itunes-app" content="app-id=919979642, app-argument=reversocontext://context.reverso.net/traduzione/inglese-italiano/fancy+restaurant"/>
+<link rel="canonical" href="/traduzione/inglese-italiano/fancy+restaurant"/>
+
+<script type="text/javascript">
+  var request = {
+    srctext: "fancy restaurant",
+    trgtext: "",
+    srclang: "en",
+    trglang: "it",
+    rpage: 1,
+    rmode: 0,
+    original: "fancy restaurant"
+  };
+</script>
+<meta name="keywords" content="parole in contesto, traduzione in contesto, Reverso Context, espressioni in contesto, motore di ricerca di traduzioni, traduzione idiomatica, traduzione di espressioni idiomatiche, esempio di traduzione, esempi di traduzione, tedesco, inglese, spagnolo, francese, ebraico, giapponese, olandese, polacco, portoghese, rumeno, russo, italiano, arabo, traduzioni idiomatiche, dizionario contestuale, esempio di utilizzo, esempi di utilizzo, traduzioni in contesto, context, language lovers, esempio contestuale, espressioni idiomatiche, dizionario, esempi ed espressioni, strumento di concordanza linguistica">
+  <meta name="google-play-app" content="app-id=com.softissimo.reverso.context">
+  <meta name="google" content="notranslate"/>
+<meta name="viewport" content="initial-scale=1.0">
+
+<link href="https://cdn.reverso.net/context/v4101/images/reverso-context-logo-for-facebook.png" rel="image_src" />
+<link rel="shortcut icon" href="https://cdn.reverso.net/context/v4101/images/reverso-context.ico">
+<link rel="apple-touch-icon" href="https://cdn.reverso.net/context/v4101/images/reverso-context-app-fav-apple.png">
+<link rel="apple-touch-icon" sizes="16x16" href="https://cdn.reverso.net/context/v4101/images/reverso-context-app-fav-apple-16x16.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://cdn.reverso.net/context/v4101/images/reverso-context-app-fav-apple-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://cdn.reverso.net/context/v4101/images/reverso-context-app-fav-apple-114x114.png">
+
+<style class="font-family">
+  @font-face{font-family:'contexticons';src:url('https://cdn.reverso.net/context/v4101/fonts/contexticons.eot?uk2hvl');src:url('https://cdn.reverso.net/context/v4101/fonts/contexticons.eot?uk2hvl#iefix') format('embedded-opentype'),url('https://cdn.reverso.net/context/v4101/fonts/contexticons.ttf?uk2hvl') format('truetype'),url('https://cdn.reverso.net/context/v4101/fonts/contexticons.woff?uk2hvl') format('woff'),url('https://cdn.reverso.net/context/v4101/fonts/contexticons.svg?uk2hvl#contexticons') format('svg');font-weight: normal;font-style: normal;}
+</style>
+<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700|Roboto+Condensed:300,400&amp;subset=cyrillic,cyrillic-ext,latin-ext" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="https://cdn.reverso.net/context/v4101/css/bst.style.css">
+<script type="text/javascript" src="//cdn.reverso.net/abp/v1/Static/JS/advertising.js?ch=1"></script>
+    <script type="text/javascript" src="//cdn.reverso.net/abp/v1/Static/JS/advertising.js?ch=2"></script>
+    <script type="text/javascript" src="//cdn.preprod.reverso.net/predib/predib-0-33-0.js" async></script>
+    <script type="text/javascript" src="//cdn.preprod.reverso.net/predib/conf/reverso_context.js"></script>
+<script type="text/javascript">
+
+  if(typeof window.request === "undefined") {
+    window.request = {
+      srctext: "",
+      trgtext: "",
+      srclang: "en",
+      trglang: "it",
+      rpage: 1,
+      rmode: 0
+    };
+  }
+  var logLOCD = false;
+  var context_path = '';
+  var special_chars = "،؟י¬¿¡ºª·؛";
+  var is_rtl = false;
+
+  window.mobilecheck = function() {
+    var check = false;
+    (function (a) {
+      if (/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4)))
+        check = true
+      })(navigator.userAgent || navigator.vendor || window.opera);
+    return check;
+  };
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  var ga_log = [];
+
+  function sendGA(command, type, category, action, label, options) {
+    var object = {
+      "command": command,
+      "type": type,
+      "category": category,
+      "action": action,
+      "label": label
+    };
+    ga_log.push(object);
+    if(label !== undefined) ga(command, type, category, action, label, options);
+    else if(action !== undefined) ga(command, type, category, action, options);
+    else if(category !== undefined) ga(command, type, category, options);
+    else ga(command, type, options);
+  };
+
+  sendGA('create', 'UA-2834324-41', 'reverso.net');
+  sendGA('create', 'UA-2834324-49', 'auto', 'keywordTracker');
+  sendGA('require', 'displayfeatures');
+  sendGA('keywordTracker.require', 'displayfeatures');
+  sendGA('set', 'dimension1', logLOCD ? 'registered' : 'anonymous');
+
+    sendGA('set', 'dimension4', typeof(adblock)=='undefined' ? 'yes' : (typeof(abp)!='undefined' && abp ? 'abp' : 'no' ));
+
+  sendGA('send', 'pageview', '/bst/result/en-it/2w/translations-precomputed');
+  sendGA('keywordTracker.send', 'pageview');
+
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+
+    googletag.cmd.push(function() {
+        googletag.pubads().disableInitialLoad();
+    });
+    if (typeof (adblock) != 'undefined') {
+      var device = (window.mobilecheck() ? "mobile" : (window.innerWidth>1024 ? "desktop" : "tablet"));
+
+      var prebid_config = prebid_config || new prebidConfig();
+      var PREBID_TIMEOUT = prebid_config.getTimeout() || 800;
+      var GA_VARIATION = typeof(prebid_config) != 'undefined' ? prebid_config.getVariation() : 0;
+
+      var ads_array = [];
+      if (device === "desktop") {
+        ads_array = ['Reverso_Ctxt_D_Result_300x250_ATF', 'Reverso_Ctxt_D_Result_300x250_BTF', 'Reverso_Ctxt_D_Result_300x600_BTF', 'Reverso_Ctxt_D_Result_728x90_BTF']
+      }
+      else if (device === "mobile") {
+        ads_array = ['Reverso_Ctxt_M_Result_320x50_BTF'];
+      }
+      else {
+        ads_array = ['Reverso_Ctxt_D_Result_728x90_BTF'];
+      }
+
+        ads_array.push('Reverso_Ctxt_R_Result_InFeed_ATF');
+
+
+      var adsetup = prebid_config.getAdSetup(ads_array) || [];
+      var adUnits = prebid_config.getAdUnits(adsetup) || [];
+
+      if(typeof(abp) != 'undefined' && abp){adUnits=[];}
+
+      (function() {
+          var gads = document.createElement('script');
+          gads.async = true;
+          gads.type = 'text/javascript';
+          var useSSL = 'https:' == document.location.protocol;
+          gads.src = (useSSL ? 'https:' : 'http:') +
+          '//www.googletagservices.com/tag/js/gpt.js';
+          var node = document.getElementsByTagName('script')[0];
+          node.parentNode.insertBefore(gads, node);
+      })();
+
+      var slots = [];
+
+      googletag.cmd.push(function() {
+          for (var i in adsetup) {
+            n = adsetup[i];
+            slots[n['slotcode']] = googletag.defineSlot('/2629866/'+n['slotname'][0], n['slotsizes'], n['slotcode']).addService(googletag.pubads());
+          }
+
+          googletag.pubads().enableSingleRequest();
+          googletag.enableServices();
+      });
+
+      var pbjs = pbjs || {};
+      pbjs.que = pbjs.que || [];
+
+      prebid_config.setBidderSettings(pbjs);
+      prebid_config.setConfig(pbjs);
+      prebid_config.setAnalyticsSettings(pbjs);
+
+      if(typeof(abp) != 'undefined' && abp) {
+        var crtg_nid = "2432";
+        var crtg_cookiename = "cto_reverso";
+        var crtg_varname = "crtg_content";
+
+        function crtg_getCookie(c_name) { var i, x, y, ARRCookies = document.cookie.split(";"); for (i = 0; i < ARRCookies.length; i++) { x = ARRCookies[i].substr(0, ARRCookies[i].indexOf("=")); y = ARRCookies[i].substr(ARRCookies[i].indexOf("=") + 1); x = x.replace(/^\s+|\s+$/g, ""); if (x == c_name) { return unescape(y); } } return ''; }
+        var crtg_content = crtg_getCookie(crtg_cookiename); var crtg_rnd = Math.floor(Math.random() * 99999999999);
+        var crtg_url = location.protocol + '//rtax.criteo.com/delivery/rta/rta.js?netId=' + escape(crtg_nid); crtg_url += '&cookieName=' + escape(crtg_cookiename); crtg_url += '&rnd=' + crtg_rnd; crtg_url += '&varName=' + escape(crtg_varname);
+        var crtg_script = document.createElement('script'); crtg_script.type = 'text/javascript'; crtg_script.src = crtg_url; crtg_script.async = true;
+        if (document.getElementsByTagName("head").length > 0) document.getElementsByTagName("head")[0].appendChild(crtg_script); else if (document.getElementsByTagName("body").length > 0) document.getElementsByTagName("body")[0].appendChild(crtg_script);
+      }
+
+      pbjs.que.push(function() {
+        pbjs.addAdUnits(adUnits);
+        if(device === "desktop"){
+          pbjs.requestBids({
+            timeout: adUnits.length ? PREBID_TIMEOUT : 100,
+            adUnitCodes: ['div-gpt-ad-Reverso_Ctxt_D_Result_300x250_ATF', 'div-gpt-ad-Reverso_Ctxt_D_Result_300x250_BTF'],
+            bidsBackHandler: sendAdserverRequest
+          });
+        }
+        });
+
+      function isGptPubadsDefined() {
+        return window.googletag && typeof window.googletag.pubads === "function" && typeof window.googletag.pubads().getSlots === "function";
+      }
+
+      function refreshBids(adUnitCodes) {
+          if (!isGptPubadsDefined()) {
+            setTimeout(function() {
+              refreshBids(adUnitCodes);
+            }, 100);
+            return;
+          }
+          refresh_adsetup = prebid_config.getAdSetup(adUnitCodes) || [];
+          refresh_adunits = prebid_config.getAdUnits(refresh_adsetup) || [];
+          var gptAdSlots = [];
+          for (i in refresh_adsetup) {
+            gptAdSlots.push(slots[refresh_adsetup[i].slotcode]);
+          }
+          if(refresh_adunits.length && (typeof(abp) == 'undefined' || !abp)){
+            pbjs.que.push(function() {
+              pbjs.requestBids({
+                timeout: PREBID_TIMEOUT,
+                adUnitCodes: refresh_adunits.map(function (x) { return x.code; }),
+                bidsBackHandler: function() {
+                  pbjs.setTargetingForGPTAsync(adUnitCodes);
+                  googletag.pubads().refresh(gptAdSlots, {changeCorrelator: false});
+                }
+              });
+            });
+          }
+          else{
+              googletag.pubads().refresh(gptAdSlots, {changeCorrelator: false});
+          }
+      }
+
+      function setReversoTargeting() {
+          var adtargeting = {};
+
+          adtargeting['abtest'] = GA_VARIATION || 0;
+          adtargeting['Interface'] = 'IT';
+          adtargeting['device'] = device;
+          adtargeting['Status'] = 'prod';
+
+            adtargeting['Direction'] = 'EN-IT';
+
+
+          if(typeof(abp) != 'undefined' && abp){
+              if(typeof(crtg_content) != 'undefined' && crtg_content.length > 0){
+                  var crtg_keywords = ['adb300'];
+                  var arr = crtg_content.replace(/=1/g, "").split(";");
+                  $.each(arr, function(i, n){
+                      if($.inArray(n, crtg_keywords) >= 0)
+                          adtargeting[n] = '1';
+                  });
+              }
+              adtargeting['abp'] = '1';
+          }
+
+          for (var i in adtargeting) {
+            googletag.pubads().setTargeting("" + i + "", "" + adtargeting[i] + "");
+          }
+      }
+
+      function setAdsToRefresh(gptslots) {
+        // JFT 31/10/2017 Removing native ad on first load when the URL contains a filter. We'll load it later.
+        if(location.hash.replace("#", "") !== "") {
+          return gptslots.splice(0, gptslots.length-1); // Native ad will be only
+        }
+        return gptslots;
+      }
+
+      function sendAdserverRequest() {
+          if (pbjs.adserverRequestSent) return;
+          pbjs.adserverRequestSent = true;
+          googletag.cmd.push(function() {
+              pbjs.que.push(function() {
+                  setReversoTargeting();
+                  if(device === "desktop"){
+                      pbjs.setTargetingForGPTAsync(['div-gpt-ad-Reverso_Ctxt_D_Result_300x250_ATF', 'div-gpt-ad-Reverso_Ctxt_D_Result_300x250_BTF']);
+                      googletag.pubads().refresh(setAdsToRefresh([slots['div-gpt-ad-Reverso_Ctxt_D_Result_300x250_ATF'], slots['div-gpt-ad-Reverso_Ctxt_D_Result_300x250_BTF'], slots['div-gpt-ad-Reverso_Ctxt_R_Result_InFeed_ATF']]), {changeCorrelator: false});
+                  }
+                  else{
+                      googletag.pubads().refresh(setAdsToRefresh([slots['div-gpt-ad-Reverso_Ctxt_R_Result_InFeed_ATF']]), {changeCorrelator: false});
+                  }
+              });
+          });
+      }
+
+      setTimeout(function() {sendAdserverRequest();}, (PREBID_TIMEOUT*1.5));
+	}
+
+  !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+  n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+  document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+  fbq('init', '1090291004350551');
+  fbq('track', "PageView");
+
+  var ezt = ezt ||[];
+
+  (function(){
+    var elem = document.createElement('script');
+    elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-9z6v4xdJwT5Z-";
+    elem.async = true;
+    elem.type = "text/javascript";
+
+    var scpt = document.getElementsByTagName('script')[0];
+    scpt.parentNode.insertBefore(elem,scpt);
+  }());
+  ezt.push({qacct: 'p-9z6v4xdJwT5Z-', labels: 'context', uid: '' });
+  </script>
+</head>
+  <body class="locked mobile-locked ">
+    <div class="loading-pannel">
+  <span class="icon"></span>
+</div>
+<div id="wrapper" class=" results">
+      <section id="top-content">
+  <a class="reverso-logo nonselectable no-loading" href="/traduzione/" title="Reverso Context: motore di ricerca di traduzioni in contesto">
+  <div class="logo">
+    <span class="icon reverso-logo-red"></span>
+    <span class="icon reverso-logo-blue"></span>
+  </div>
+  <div class="text">
+    <span class="icon reverso-text"></span>
+    <span class="icon context-text"></span>
+  </div>
+</a>
+<div id="mobile-menu" class="closed">
+    <span class="icon menu"></span>
+    <div class="floating-menu">
+      <a class="option register" href="https://account.reverso.net/register/context.reverso.net/it?utm_source=contextweb&utm_medium=usertopmenu&utm_campaign=register">
+          <span class="icon add-user"></span>
+          <span class="text">Registrati</span>
+        </a>
+        <a class="option login" href="https://account.reverso.net/login/context.reverso.net/it?utm_source=contextweb&utm_medium=usertopmenu&utm_campaign=login">
+          <span class="icon login"></span>
+          <span class="text">Connettiti</span>
+        </a>
+      <button class="font-resize grey" data-size="0">
+        <span class="icon font-resize"></span>
+        <span class="text">Font size</span>
+      </button>
+      <a class="option help grey" href="/traduzione/about/">
+        <span class="icon help"></span>
+        <span class="text">Aiuto</span>
+      </a>
+      <button class="option locale grey">
+        <span class="icon lang"></span>
+        <span class="text">italiano</span>
+        <span class="icon down-caret"></span>
+      </button>
+      <div class="interface-langs closed">
+        <button class="option" data-value="ar">العربية</button>
+        <button class="option" data-value="de">Deutsch</button>
+        <button class="option" data-value="en">English</button>
+        <button class="option" data-value="es">Español</button>
+        <button class="option" data-value="fr">Français</button>
+        <button class="option" data-value="he">עברית</button>
+        <button class="option selected" data-value="it">Italiano</button>
+        <button class="option" data-value="ja">日本語</button>
+        <button class="option" data-value="nl">Nederlands</button>
+        <button class="option" data-value="pl">Polski</button>
+        <button class="option" data-value="pt">Português</button>
+        <button class="option" data-value="ro">Română</button>
+        <button class="option" data-value="ru">Русский</button>
+        </div>
+    </div>
+  </div>
+  <div id="top-menu" class="selector closed nonselectable">
+    <span class="option front icon horizontal-dots"></span>
+    <span class="option front space-filler">···</span>
+    <div class="drop-down">
+      <a class="option translation" target="_blank" href="http://www.reverso.net/text_translation.aspx?lang=IT">
+        <span class="icon lang"></span>
+        <span class="text">Traduzione</span>
+      </a>
+      <a class="option dictionary" target="_blank" href="http://dizionario.reverso.net">
+        <span class="icon dictionary"></span>
+        <span class="text">Dizionario</span>
+      </a>
+      <a class="option speller" target="_blank" href="http://www.reverso.net/spell-checker/english-spelling-grammar/">
+        <span class="icon spellcheck"></span>
+        <span class="text">Correttore ortografico</span>
+      </a>
+      <a class="option conjugation" target="_blank" href="http://coniugazione.reverso.net">
+        <span class="icon conjugator"></span>
+        <span class="text">Coniugazione</span>
+      </a>
+      <a class="option grammar" target="_blank" href="http://grammar.reverso.net/">
+        <span class="icon translate"></span>
+        <span class="text">Grammatica</span>
+      </a>
+      <a class="option document" target="_blank" href="http://localize.reverso.net/Default.aspx?lang=en">
+        <span class="icon document"></span>
+        <span class="text">Traduzioni di documenti e di siti web</span>
+      </a>
+      <a class="option corporate" href="/corporate">
+        <span class="icon corporate"></span>
+        <span class="text">Soluzioni aziendali</span>
+      </a>
+      <a class="option newsletter" target="_blank" href="http://www.reverso.net/tricks.aspx?type=3&lang=IT">
+        <span class="icon mail"></span>
+        <span class="text">Newsletter</span>
+      </a>
+      <a class="option help" href="/traduzione/about/">
+        <span class="icon help"></span>
+        <span class="text">Aiuto</span>
+      </a>
+    </div>
+  </div>
+  <div id="lang-selector" class="selector closed nonselectable">
+    <span class="option front">it</span>
+    <span class="icon down-caret"></span>
+    <span class="option front space-filler">···</span>
+    <div class="drop-down">
+    <div class="option" data-value="ar">العربية</div>
+    <div class="option" data-value="de">Deutsch</div>
+    <div class="option" data-value="en">English</div>
+    <div class="option" data-value="es">Español</div>
+    <div class="option" data-value="fr">Français</div>
+    <div class="option" data-value="he">עברית</div>
+    <div class="option selected" data-value="it">Italiano</div>
+    <div class="option" data-value="ja">日本語</div>
+    <div class="option" data-value="nl">Nederlands</div>
+    <div class="option" data-value="pl">Polski</div>
+    <div class="option" data-value="pt">Português</div>
+    <div class="option" data-value="ro">Română</div>
+    <div class="option" data-value="ru">Русский</div>
+    </div>
+  </div>
+  <button class="icon font-resize" data-size="0" title="Clicca per aumentare o ridurre le dimensioni del testo"></button>
+  <div class="reverso-links">
+    <a class="translation-link" target="_blank" href="http://www.reverso.net/text_translation.aspx?lang=IT">
+      Traduzione</a>
+    <a class="dictionary-link" target="_blank" href="http://dizionario.reverso.net">
+      Dizionario</a>
+    <a class="speller-link" target="_blank" href="http://www.reverso.net/spell-checker/english-spelling-grammar/">
+      Correttore ortografico</a>
+    <a class="conjugation-link" target="_blank" href="http://coniugazione.reverso.net">
+      Coniugazione</a>
+    <a class="grammar-link last" target="_blank" href="http://grammar.reverso.net/">
+      Grammatica</a>
+  </div>
+  <div class="social-content">
+    <a class="facebook-link icon facebook" target="_blank" href="https://www.facebook.com/Reverso.net?ref=ts" title="Facebook"></a>
+    <a class="twitter-link icon twitter" target="_blank" href="https://twitter.com/ReversoEN" title="Twitter"></a>
+  </div>
+  <!-- end top-bar -->
+</section>
+<section id="reverso-nav">
+  <a class="translation-link" target="_blank" href="http://www.reverso.net/text_translation.aspx?lang=IT">
+    Traduzione</a>
+  <a class="dictionary-link" target="_blank" href="http://dizionario.reverso.net">
+    Dizionario</a>
+  <span>Context</span>
+  <a class="conjugation-link" target="_blank" href="http://coniugazione.reverso.net">
+    Coniugazione</a>
+</section>
+<section id="body-content">
+  <div class="right-content">
+    <section id="subtop-content">
+  <!--<div class="taille" title="Clicca per aumentare o ridurre le dimensioni del testo" data-size="0">A<b>A</b></div>-->
+  <script>
+    var register_link = "https://account.reverso.net/register/context.reverso.net/it?utm_source=contextweb&utm_medium={0}&utm_campaign=register";
+    var login_link = "https://account.reverso.net/login/context.reverso.net/it?utm_source=contextweb&utm_medium={0}&utm_campaign=login";
+  </script>
+  <div id="user-menu" class="selector closed nonselectable ">
+    <span class="icon down-caret"></span>
+    <span class="option front"><span class="icon user"></span>Iscriviti a Reverso</span>
+    <div class="drop-down">
+    <a class="option register" href="https://account.reverso.net/register/context.reverso.net/it?utm_source=contextweb&utm_medium=usertopmenu&utm_campaign=register">
+        <span class="icon add-user"></span>
+        <span class="text">Registrati</span>
+      </a>
+      <a class="option login" href="https://account.reverso.net/login/context.reverso.net/it?utm_source=contextweb&utm_medium=usertopmenu&utm_campaign=login">
+        <span class="icon login"></span>
+        <span class="text">Connettiti</span>
+      </a>
+      <span id="fb-content" class="option facebook" data-url="null">
+        <span class="icon facebook"></span>
+        <span class="text">Connessione Facebook</span>
+      </span>
+    </div>
+  </div>
+  <div id="title-content">
+    </div>
+</section>
+<div id="rca">
+  <!-- /64378609/Context_300x250_Top -->
+  <span class="rca-title">Pubblicità</span>
+  <div id='div-gpt-ad-Reverso_Ctxt_D_Result_300x250_ATF' class="rca">
+    <script type='text/javascript'>
+      if(!window.mobilecheck()) {
+        googletag.cmd.push(function() {
+          googletag.display('div-gpt-ad-Reverso_Ctxt_D_Result_300x250_ATF');
+        });
+      }
+    </script>
+  </div>
+  <div id="side-badges">
+    <a id="extension-badge" href target="_blank" class="badge extension disabled mobile-hidden">
+      <span class="logo"></span>
+      <span class="text">Aggiungi Reverso a {0} <b>È gratis</b></span>
+    </a>
+    <div class="badges pannel">
+      <h2 class="text">
+        <a href="/traduzione/applicazione-mobile?utm_source=contextweb&utm_medium=banner&utm_campaign=ctxtresultpage&utm_content=ctxtappdl">Scarica la nostra app <b>gratuita</b></a>
+      </h2>
+      <a href="/traduzione/applicazione-mobile?utm_source=contextweb&utm_medium=banner&utm_campaign=ctxtresultpage&utm_content=ctxtappdl" class="badge and no-loading it">
+      </a>
+      <a href="/traduzione/applicazione-mobile?utm_source=contextweb&utm_medium=banner&utm_campaign=ctxtresultpage&utm_content=ctxtappdl" class="badge ios no-loading it">
+      </a>
+    </div>
+  </div>
+  <!-- /64378609/Context_300x250_Bottom -->
+  <span class="rca-title">Pubblicità</span>
+  <div id='div-gpt-ad-Reverso_Ctxt_D_Result_300x250_BTF' class="rca">
+    <script type='text/javascript'>
+      if(!window.mobilecheck()) {
+        googletag.cmd.push(function() {
+          googletag.display('div-gpt-ad-Reverso_Ctxt_D_Result_300x250_BTF');
+        });
+      }
+    </script>
+  </div>
+  <!-- /64378609/Context_300x600 -->
+    <span class="rca-title disabled tall-rca">Pubblicità</span>
+    <div id='div-gpt-ad-Reverso_Ctxt_D_Result_300x600_BTF' class="rca disabled tall-rca">
+      <script type='text/javascript'>
+        if(!window.mobilecheck()) {
+		  googletag.cmd.push(function() {
+			googletag.display('div-gpt-ad-Reverso_Ctxt_D_Result_300x600_BTF');
+		  });
+        }
+      </script>
+    </div>
+  </div>
+</div>
+  <div class="left-content">
+    <div id="register-popup-bottom" class="popup closed">
+  <div class="header">
+    <span class="title">Entra in Reverso, è <b>semplice e gratis</b>!</span>
+    <button class="icon up-arrow" title="Chiudi"></button>
+  </div>
+  <div class="body wide-container">
+    <a class="button register" href="https://account.reverso.net/register/context.reverso.net/it?utm_source=contextweb&utm_medium=floatingpopup&utm_campaign=register"><span class="icon add-user"></span>Registrati</a>
+    <a class="button login" href="https://account.reverso.net/login/context.reverso.net/it?utm_source=contextweb&utm_medium=floatingpopup&utm_campaign=login"><span class="icon login"></span>Connettiti</a>
+  </div>
+</div>
+<section id="search-content">
+  <div id="search">
+    <div id="search-input" class="ltr">
+      <div class="icons">
+        <button class="icon exclude" title="Clicca qui per escludere determinati termini della ricerca. Ad esempio, parola1 - parola2 {}: cercherà esempi che contengano la parola1 SENZA la parola2 ."></button>
+        <button class="icon cancel" title="Elimina testo"></button>
+      </div>
+      <input tabindex="1" type="text" name="text" id="entry" value="fancy restaurant" autocapitalize="none" autocomplete="off" class="keyboardInput ui-autocomplete-input ltr" placeholder="Inserisci o incolla il testo"/>
+    </div>
+    <div id="pair-selector" class="nonselectable">
+      <div id="src-selector" class="selector double closed" tabindex="2">
+        <span class="icon down-caret"></span>
+        <span class="option front" data-value="en">inglese</span>
+        <span class="space-filler"></span>
+        <div class="drop-down">
+          <span class="option" data-value="ar">arabo</span>
+          <span class="option" data-value="de">tedesco</span>
+          <span class="option selected" data-value="en">inglese</span>
+          <span class="option" data-value="es">spagnolo</span>
+          <span class="option" data-value="fr">francese</span>
+          <span class="option" data-value="he">ebraico</span>
+          <span class="option" data-value="it">italiano</span>
+          <span class="option" data-value="ja">giapponese</span>
+          <span class="option" data-value="nl">olandese</span>
+          <span class="option" data-value="pl">polacco</span>
+          <span class="option" data-value="pt">portoghese</span>
+          <span class="option" data-value="ro">rumeno</span>
+          <span class="option" data-value="ru">russo</span>
+          </div>
+      </div>
+      <div class="swap-content" title="Inverti la direzione di traduzione">
+        <div class="icons" tabindex="3">
+          <span class="icon reverso-top"></span>
+          <span class="icon reverso-bottom"></span>
+        </div>
+      </div>
+      <div id="trg-selector" class="selector double closed" tabindex="4">
+        <span class="icon down-caret"></span>
+        <span class="option front" data-value="it">italiano</span>
+        <span class="space-filler"></span>
+        <div class="drop-down">
+          <span class="option" data-value="ar">arabo</span>
+          <span class="option" data-value="de">tedesco</span>
+          <span class="option" data-value="en">inglese</span>
+          <span class="option" data-value="es">spagnolo</span>
+          <span class="option" data-value="fr">francese</span>
+          <span class="option" data-value="he">ebraico</span>
+          <span class="option selected" data-value="it">italiano</span>
+          <span class="option" data-value="ja">giapponese</span>
+          <span class="option" data-value="nl">olandese</span>
+          <span class="option" data-value="pl">polacco</span>
+          <span class="option" data-value="pt">portoghese</span>
+          <span class="option" data-value="ro">rumeno</span>
+          <span class="option" data-value="ru">russo</span>
+          </div>
+      </div>
+    </div>
+    <button id="search-button" class="icon search" title="Ricerca" tabindex="5"></button>
+    <div class="exclude-content">
+      <button class="icon add disabled"></button>
+      <div class="input-content">
+        <input placeholder="Escludi dalla ricerca">
+      </div>
+    </div>
+  </div>
+  <div id="search-tools">
+    <div class="icons">
+    </div>
+  </div>
+</section>
+<section id="notice-content">
+  <div id="rude" class="notice">
+    <i class="icon warning"></i>
+    <span class="message">In base al termine ricercato questi esempi potrebbero contenere parole volgari.</span>
+  </div>
+  <div id="colloquial" class="notice">
+    <i class="icon warning"></i>
+    <span class="message">In base al termine ricercato questi esempi potrebbero contenere parole colloquiali.</span>
+  </div>
+</section>
+<section id="top-results">
+  <section id="search-options" class="no-seealso">
+    <button class="icon down-arrow detailed-view closed" title="Mostra dettagli e suggerimenti"></button>
+    <div class="title-content">
+      <h1>Traduzione di &quot;fancy restaurant&quot; in italiano</h1>
+      </div>
+    <div id="searchers-content">
+      <span class="message">Cercare fancy restaurant in:</span>
+      <button class="web" data-value="web" data-url="https://www.google.com/search?hl=en&q=fancy+restaurant">Web</button>
+      <button class="images" data-value="images" data-url="https://www.google.com/search?hl=en&q=fancy+restaurant&tbm=isch">Immagini</button>
+      <button class="definition" data-url="http://dizionario.reverso.net/inglese-definizioni/fancy+restaurant" data-value="definition">Definizione</button>
+        <button class="dictionary" data-value="dictionary" data-url="http://dizionario.reverso.net/inglese-italiano/fancy+restaurant">Dizionario</button>
+      <button class="disabled">Coniugazione</button>
+      </div>
+  </section>
+  <div id="pos-filters" class="wide-container">
+      </div>
+    <div id="filtered-entry" class="wide-container">
+    </div>
+    <div id="translations-content" class="wide-container">
+    <div class="translation ltr dict no-pos"  data-posGroup="6" data-freq="17" title="<div class='nobold'>Vedi esempi per la traduzione <em class='translation'>ristorante di lusso</em><br>(17 esempi coincidenti)</div>">
+          ristorante di lusso</div>
+      <div class="translation ltr dict no-pos"  data-posGroup="6" data-freq="7" title="<div class='nobold'>Vedi esempi per la traduzione <em class='translation'>ristorante elegante</em><br>(7 esempi coincidenti)</div>">
+          ristorante elegante</div>
+      <div class="translation ltr dict no-pos"  data-posGroup="6" data-freq="7" title="<div class='nobold'>Vedi esempi per la traduzione <em class='translation'>bel ristorante</em><br>(7 esempi coincidenti)</div>">
+          bel ristorante</div>
+      <div class="translation ltr dict no-pos"  data-posGroup="6" data-freq="3" title="<div class='nobold'>Vedi esempi per la traduzione <em class='translation'>ristorante alla moda</em><br>(3 esempi coincidenti)</div>">
+          ristorante alla moda</div>
+      <div class="translation indication ltr dict no-pos"  data-posGroup="10" data-freq="2" title="<div class='nobold'>Vedi esempi che contengano <em class='translation'>ristorante esclusivo</em><br>(2 esempi coincidenti)</div>">
+          ristorante esclusivo</div>
+      </div>
+  <section id="filters-content" class="wide-container">
+    <button class="other-content" data-other="0" data-negative=" -{ristorante di lusso} -{ristorante elegante} -{bel ristorante} -{ristorante alla moda} -{ristorante esclusivo}">Altre traduzioni</button>
+    <div class="filter-form closed">
+      <button class="icon filter" title="Puoi ottenere risultati più precisi indicando le parole che desideri visualizzare nella traduzione. In tal modo potrai visualizzare solo gli esempi che contengono quelle parole."></button>
+      <button class="icon cancel" title="Rimuovi Filtro"></button>
+      <div class="input-content">
+        <button class="icon exclude" title="Clicca qui per escludere determinati termini della ricerca. Ad esempio, parola1 - parola2 {}: cercherà esempi che contengano la parola1 SENZA la parola2 ."></button>
+        <input placeholder="Mostra traduzioni contenenti..." autocomplete="off" readonly>
+      </div>
+    </div>
+  </section>
+  </section>
+<section id="examples-content" class="wide-container ">
+  <div id="OPENSUBTITLES-2016.EN-IT_9032841" class="example">
+      <div class="src ltr">
+        <span class="text" lang='en'>
+          We went to a <em>fancy restaurant</em>.</span>
+      </div>
+      <div class="trg ltr">
+        <span class="icon jump-right"></span>
+        <span class="text">
+          Siamo andate in un <a class="link_highlighted" href='/traduzione/italiano-inglese/ristorante+di+lusso' rel="nofollow"><em>ristorante di lusso</em></a>.</span>
+      </div>
+      <div class="options">
+        <div class="src">
+          <button data-id="OPENSUBTITLES-2016.EN-IT_9032841" class="voice icon stopped" title="Pronuncia" data-lang="en"></button>
+          </div>
+        <div class="trg">
+          <button class="icon more-context" title="Vedi altri contesti per questa traduzione (http://opus.lingfil.uu.se/OpenSubtitles2016.php)" data-id="OPENSUBTITLES-2016.EN-IT_9032841"></button>
+          <button class="report icon thumb-down" title="Segnala un problema su questo esempio" data-id="OPENSUBTITLES-2016.EN-IT_9032841"></button>
+          <button class="add icon addentry " title="Aggiungi la traduzione al dizionario collaborativo Reverso" data-url="http://dizionario.reverso.net/CollabDict.aspx?view=2&lang=IT" data-id="OPENSUBTITLES-2016.EN-IT_9032841" data-text="Siamo andate in un <em>ristorante di lusso</em>."></button>
+          <button class="copy icon mobile-hidden" title="Copia traduzione" data-id="OPENSUBTITLES-2016.EN-IT_9032841"></button>
+          <button class="icon non-favourite " title="Salva l'esempio tra i tuoi preferiti" data-id="OPENSUBTITLES-2016.EN-IT_9032841"></button>
+          <button data-id="OPENSUBTITLES-2016.EN-IT_9032841" class="voice icon stopped" title="Pronuncia" data-lang="it"></button>
+          </div>
+      </div>
+      <button data-id="OPENSUBTITLES-2016.EN-IT_9032841" class="mobile-voice icon stopped played"></button>
+      </div>
+    <div id="OPENSUBTITLES-2012.EN-IT_8300604" class="example">
+      <div class="src ltr">
+        <span class="text" lang='en'>
+          Nicole insisted I go to this <em>fancy restaurant</em> with her and Tyler.</span>
+      </div>
+      <div class="trg ltr">
+        <span class="icon jump-right"></span>
+        <span class="text">
+          Nicole insisteva perché andassi in questo <a class="link_highlighted" href='/traduzione/italiano-inglese/ristorante+di+lusso' rel="nofollow"><em>ristorante di lusso</em></a> con lei e Tyler.</span>
+      </div>
+      <div class="options">
+        <div class="src">
+          <button data-id="OPENSUBTITLES-2012.EN-IT_8300604" class="voice icon stopped" title="Pronuncia" data-lang="en"></button>
+          </div>
+        <div class="trg">
+          <button class="icon more-context" title="Vedi altri contesti per questa traduzione (http://opus.lingfil.uu.se/OpenSubtitles2016.php)" data-id="OPENSUBTITLES-2012.EN-IT_8300604"></button>
+          <button class="report icon thumb-down" title="Segnala un problema su questo esempio" data-id="OPENSUBTITLES-2012.EN-IT_8300604"></button>
+          <button class="add icon addentry " title="Aggiungi la traduzione al dizionario collaborativo Reverso" data-url="http://dizionario.reverso.net/CollabDict.aspx?view=2&lang=IT" data-id="OPENSUBTITLES-2012.EN-IT_8300604" data-text="Nicole insisteva perché andassi in questo <em>ristorante di lusso</em> con lei e Tyler."></button>
+          <button class="copy icon mobile-hidden" title="Copia traduzione" data-id="OPENSUBTITLES-2012.EN-IT_8300604"></button>
+          <button class="icon non-favourite " title="Salva l'esempio tra i tuoi preferiti" data-id="OPENSUBTITLES-2012.EN-IT_8300604"></button>
+          <button data-id="OPENSUBTITLES-2012.EN-IT_8300604" class="voice icon stopped" title="Pronuncia" data-lang="it"></button>
+          </div>
+      </div>
+      <button data-id="OPENSUBTITLES-2012.EN-IT_8300604" class="mobile-voice icon stopped played"></button>
+      </div>
+    <div id="OPENSUBTITLES-2016.EN-IT_12296201" class="example">
+      <div class="src ltr">
+        <span class="text" lang='en'>
+          So we don't get the table at the <em>fancy restaurant</em>, which drives Gloria crazy.</span>
+      </div>
+      <div class="trg ltr">
+        <span class="icon jump-right"></span>
+        <span class="text">
+          Quindi non ci danno un tavolo al <a class="link_highlighted" href='/traduzione/italiano-inglese/ristorante+elegante' rel="nofollow"><em>ristorante elegante</em></a>, cosa che fa dannare Gloria.</span>
+      </div>
+      <div class="options">
+        <div class="src">
+          <button data-id="OPENSUBTITLES-2016.EN-IT_12296201" class="voice icon stopped" title="Pronuncia" data-lang="en"></button>
+          </div>
+        <div class="trg">
+          <button class="icon more-context" title="Vedi altri contesti per questa traduzione (http://opus.lingfil.uu.se/OpenSubtitles2016.php)" data-id="OPENSUBTITLES-2016.EN-IT_12296201"></button>
+          <button class="report icon thumb-down" title="Segnala un problema su questo esempio" data-id="OPENSUBTITLES-2016.EN-IT_12296201"></button>
+          <button class="add icon addentry " title="Aggiungi la traduzione al dizionario collaborativo Reverso" data-url="http://dizionario.reverso.net/CollabDict.aspx?view=2&lang=IT" data-id="OPENSUBTITLES-2016.EN-IT_12296201" data-text="Quindi non ci danno un tavolo al <em>ristorante elegante</em>, cosa che fa dannare Gloria."></button>
+          <button class="copy icon mobile-hidden" title="Copia traduzione" data-id="OPENSUBTITLES-2016.EN-IT_12296201"></button>
+          <button class="icon non-favourite " title="Salva l'esempio tra i tuoi preferiti" data-id="OPENSUBTITLES-2016.EN-IT_12296201"></button>
+          <button data-id="OPENSUBTITLES-2016.EN-IT_12296201" class="voice icon stopped" title="Pronuncia" data-lang="it"></button>
+          </div>
+      </div>
+      <button data-id="OPENSUBTITLES-2016.EN-IT_12296201" class="mobile-voice icon stopped played"></button>
+      </div>
+    <div id="OPENSUBTITLES-2012.EN-IT_14115128" class="example">
+      <div class="src ltr">
+        <span class="text" lang='en'>
+          Usually on Sundays if The Lord blessed us... with a basket of abundant alms, going to a <em>fancy restaurant</em> and eat "banana split".</span>
+      </div>
+      <div class="trg ltr">
+        <span class="icon jump-right"></span>
+        <span class="text">
+          Se la domenica il signore ci benediceva con abbondanti elemosine, andavamo in un <a class="link_highlighted" href='/traduzione/italiano-inglese/ristorante+elegante' rel="nofollow"><em>ristorante elegante</em></a> a mangiare "banana split".</span>
+      </div>
+      <div class="options">
+        <div class="src">
+          <button data-id="OPENSUBTITLES-2012.EN-IT_14115128" class="voice icon stopped" title="Pronuncia" data-lang="en"></button>
+          </div>
+        <div class="trg">
+          <button class="icon more-context" title="Vedi altri contesti per questa traduzione (http://opus.lingfil.uu.se/OpenSubtitles2016.php)" data-id="OPENSUBTITLES-2012.EN-IT_14115128"></button>
+          <button class="report icon thumb-down" title="Segnala un problema su questo esempio" data-id="OPENSUBTITLES-2012.EN-IT_14115128"></button>
+          <button class="add icon addentry " title="Aggiungi la traduzione al dizionario collaborativo Reverso" data-url="http://dizionario.reverso.net/CollabDict.aspx?view=2&lang=IT" data-id="OPENSUBTITLES-2012.EN-IT_14115128" data-text="Se la domenica il signore ci benediceva con abbondanti elemosine, andavamo in un <em>ristorante elegante</em> a mangiare &quot;banana split&quot;."></button>
+          <button class="copy icon mobile-hidden" title="Copia traduzione" data-id="OPENSUBTITLES-2012.EN-IT_14115128"></button>
+          <button class="icon non-favourite " title="Salva l'esempio tra i tuoi preferiti" data-id="OPENSUBTITLES-2012.EN-IT_14115128"></button>
+          <button data-id="OPENSUBTITLES-2012.EN-IT_14115128" class="voice icon stopped" title="Pronuncia" data-lang="it"></button>
+          </div>
+      </div>
+      <button data-id="OPENSUBTITLES-2012.EN-IT_14115128" class="mobile-voice icon stopped played"></button>
+      </div>
+    <div id="OPENSUBTITLES-2016.EN-IT_19140910" class="example">
+      <div class="src ltr">
+        <span class="text" lang='en'>
+          And he wants to take me to a <em>fancy restaurant</em>.</span>
+      </div>
+      <div class="trg ltr">
+        <span class="icon jump-right"></span>
+        <span class="text">
+          E vuole portarmi a cena in un <a class="link_highlighted" href='/traduzione/italiano-inglese/bel+ristorante' rel="nofollow"><em>bel ristorante</em></a>.</span>
+      </div>
+      <div class="options">
+        <div class="src">
+          <button data-id="OPENSUBTITLES-2016.EN-IT_19140910" class="voice icon stopped" title="Pronuncia" data-lang="en"></button>
+          </div>
+        <div class="trg">
+          <button class="icon more-context" title="Vedi altri contesti per questa traduzione (http://opus.lingfil.uu.se/OpenSubtitles2016.php)" data-id="OPENSUBTITLES-2016.EN-IT_19140910"></button>
+          <button class="report icon thumb-down" title="Segnala un problema su questo esempio" data-id="OPENSUBTITLES-2016.EN-IT_19140910"></button>
+          <button class="add icon addentry " title="Aggiungi la traduzione al dizionario collaborativo Reverso" data-url="http://dizionario.reverso.net/CollabDict.aspx?view=2&lang=IT" data-id="OPENSUBTITLES-2016.EN-IT_19140910" data-text="E vuole portarmi a cena in un <em>bel ristorante</em>."></button>
+          <button class="copy icon mobile-hidden" title="Copia traduzione" data-id="OPENSUBTITLES-2016.EN-IT_19140910"></button>
+          <button class="icon non-favourite " title="Salva l'esempio tra i tuoi preferiti" data-id="OPENSUBTITLES-2016.EN-IT_19140910"></button>
+          <button data-id="OPENSUBTITLES-2016.EN-IT_19140910" class="voice icon stopped" title="Pronuncia" data-lang="it"></button>
+          </div>
+      </div>
+      <button data-id="OPENSUBTITLES-2016.EN-IT_19140910" class="mobile-voice icon stopped played"></button>
+      </div>
+    <div id='lig_reverso_smartbox_article_tc' class="inner-rca">
+        <!-- /2629866/Context_1x1_Banner -->
+        <div id='div-gpt-ad-Reverso_Ctxt_R_Result_InFeed_ATF'>
+          <script type='text/javascript'>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-Reverso_Ctxt_R_Result_InFeed_ATF'); });
+          </script>
+        </div>
+      </div>
+    <div id="OPENSUBTITLES-2016.EN-IT_20645025" class="example">
+      <div class="src ltr">
+        <span class="text" lang='en'>
+          A <em>fancy restaurant</em>, the movies, what?</span>
+      </div>
+      <div class="trg ltr">
+        <span class="icon jump-right"></span>
+        <span class="text">
+          Un <a class="link_highlighted" href='/traduzione/italiano-inglese/bel+ristorante' rel="nofollow"><em>bel ristorante</em></a>, al cinema?</span>
+      </div>
+      <div class="options">
+        <div class="src">
+          <button data-id="OPENSUBTITLES-2016.EN-IT_20645025" class="voice icon stopped" title="Pronuncia" data-lang="en"></button>
+          </div>
+        <div class="trg">
+          <button class="icon more-context" title="Vedi altri contesti per questa traduzione (http://opus.lingfil.uu.se/OpenSubtitles2016.php)" data-id="OPENSUBTITLES-2016.EN-IT_20645025"></button>
+          <button class="report icon thumb-down" title="Segnala un problema su questo esempio" data-id="OPENSUBTITLES-2016.EN-IT_20645025"></button>
+          <button class="add icon addentry " title="Aggiungi la traduzione al dizionario collaborativo Reverso" data-url="http://dizionario.reverso.net/CollabDict.aspx?view=2&lang=IT" data-id="OPENSUBTITLES-2016.EN-IT_20645025" data-text="Un <em>bel ristorante</em>, al cinema?"></button>
+          <button class="copy icon mobile-hidden" title="Copia traduzione" data-id="OPENSUBTITLES-2016.EN-IT_20645025"></button>
+          <button class="icon non-favourite " title="Salva l'esempio tra i tuoi preferiti" data-id="OPENSUBTITLES-2016.EN-IT_20645025"></button>
+          <button data-id="OPENSUBTITLES-2016.EN-IT_20645025" class="voice icon stopped" title="Pronuncia" data-lang="it"></button>
+          </div>
+      </div>
+      <button data-id="OPENSUBTITLES-2016.EN-IT_20645025" class="mobile-voice icon stopped played"></button>
+      </div>
+    <div id="OPENSUBTITLES-2012.EN-IT_20723931" class="example">
+      <div class="src ltr">
+        <span class="text" lang='en'>
+          It's like a <em>fancy restaurant</em> where you can sleep.</span>
+      </div>
+      <div class="trg ltr">
+        <span class="icon jump-right"></span>
+        <span class="text">
+          È come un <a class="link_highlighted" href='/traduzione/italiano-inglese/ristorante+di+lusso' rel="nofollow"><em>ristorante di lusso</em></a> in cui puoi dormire.</span>
+      </div>
+      <div class="options">
+        <div class="src">
+          <button data-id="OPENSUBTITLES-2012.EN-IT_20723931" class="voice icon stopped" title="Pronuncia" data-lang="en"></button>
+          </div>
+        <div class="trg">
+          <button class="icon more-context" title="Vedi altri contesti per questa traduzione (http://opus.lingfil.uu.se/OpenSubtitles2016.php)" data-id="OPENSUBTITLES-2012.EN-IT_20723931"></button>
+          <button class="report icon thumb-down" title="Segnala un problema su questo esempio" data-id="OPENSUBTITLES-2012.EN-IT_20723931"></button>
+          <button class="add icon addentry " title="Aggiungi la traduzione al dizionario collaborativo Reverso" data-url="http://dizionario.reverso.net/CollabDict.aspx?view=2&lang=IT" data-id="OPENSUBTITLES-2012.EN-IT_20723931" data-text="È come un <em>ristorante di lusso</em> in cui puoi dormire."></button>
+          <button class="copy icon mobile-hidden" title="Copia traduzione" data-id="OPENSUBTITLES-2012.EN-IT_20723931"></button>
+          <button class="icon non-favourite " title="Salva l'esempio tra i tuoi preferiti" data-id="OPENSUBTITLES-2012.EN-IT_20723931"></button>
+          <button data-id="OPENSUBTITLES-2012.EN-IT_20723931" class="voice icon stopped" title="Pronuncia" data-lang="it"></button>
+          </div>
+      </div>
+      <button data-id="OPENSUBTITLES-2012.EN-IT_20723931" class="mobile-voice icon stopped played"></button>
+      </div>
+    <div id="OPENSUBTITLES-2016.EN-IT_9032859" class="example">
+      <div class="src ltr">
+        <span class="text" lang='en'>
+          But you wanted to go to a <em>fancy restaurant</em>, and I...</span>
+      </div>
+      <div class="trg ltr">
+        <span class="icon jump-right"></span>
+        <span class="text">
+          Ma tu sei voluta andare in un <a class="link_highlighted" href='/traduzione/italiano-inglese/ristorante+di+lusso' rel="nofollow"><em>ristorante di lusso</em></a>, E io...</span>
+      </div>
+      <div class="options">
+        <div class="src">
+          <button data-id="OPENSUBTITLES-2016.EN-IT_9032859" class="voice icon stopped" title="Pronuncia" data-lang="en"></button>
+          </div>
+        <div class="trg">
+          <button class="icon more-context" title="Vedi altri contesti per questa traduzione (http://opus.lingfil.uu.se/OpenSubtitles2016.php)" data-id="OPENSUBTITLES-2016.EN-IT_9032859"></button>
+          <button class="report icon thumb-down" title="Segnala un problema su questo esempio" data-id="OPENSUBTITLES-2016.EN-IT_9032859"></button>
+          <button class="add icon addentry " title="Aggiungi la traduzione al dizionario collaborativo Reverso" data-url="http://dizionario.reverso.net/CollabDict.aspx?view=2&lang=IT" data-id="OPENSUBTITLES-2016.EN-IT_9032859" data-text="Ma tu sei voluta andare in un <em>ristorante di lusso</em>, E io..."></button>
+          <button class="copy icon mobile-hidden" title="Copia traduzione" data-id="OPENSUBTITLES-2016.EN-IT_9032859"></button>
+          <button class="icon non-favourite " title="Salva l'esempio tra i tuoi preferiti" data-id="OPENSUBTITLES-2016.EN-IT_9032859"></button>
+          <button data-id="OPENSUBTITLES-2016.EN-IT_9032859" class="voice icon stopped" title="Pronuncia" data-lang="it"></button>
+          </div>
+      </div>
+      <button data-id="OPENSUBTITLES-2016.EN-IT_9032859" class="mobile-voice icon stopped played"></button>
+      </div>
+    <div id="OPENSUBTITLES-2016.EN-IT_19072674" class="example">
+      <div class="src ltr">
+        <span class="text" lang='en'>
+          And seven months ago, Shelby did not have the money to buy a <em>fancy restaurant</em> like Fancie's, so...</span>
+      </div>
+      <div class="trg ltr">
+        <span class="icon jump-right"></span>
+        <span class="text">
+          E sette mesi fa... Shelby non aveva i soldi per comprare un <a class="link_highlighted" href='/traduzione/italiano-inglese/ristorante+di+lusso' rel="nofollow"><em>ristorante di lusso</em></a> come Fancie.</span>
+      </div>
+      <div class="options">
+        <div class="src">
+          <button data-id="OPENSUBTITLES-2016.EN-IT_19072674" class="voice icon stopped" title="Pronuncia" data-lang="en"></button>
+          </div>
+        <div class="trg">
+          <button class="icon more-context" title="Vedi altri contesti per questa traduzione (http://opus.lingfil.uu.se/OpenSubtitles2016.php)" data-id="OPENSUBTITLES-2016.EN-IT_19072674"></button>
+          <button class="report icon thumb-down" title="Segnala un problema su questo esempio" data-id="OPENSUBTITLES-2016.EN-IT_19072674"></button>
+          <button class="add icon addentry " title="Aggiungi la traduzione al dizionario collaborativo Reverso" data-url="http://dizionario.reverso.net/CollabDict.aspx?view=2&lang=IT" data-id="OPENSUBTITLES-2016.EN-IT_19072674" data-text="E sette mesi fa... Shelby non aveva i soldi per comprare un <em>ristorante di lusso</em> come Fancie."></button>
+          <button class="copy icon mobile-hidden" title="Copia traduzione" data-id="OPENSUBTITLES-2016.EN-IT_19072674"></button>
+          <button class="icon non-favourite " title="Salva l'esempio tra i tuoi preferiti" data-id="OPENSUBTITLES-2016.EN-IT_19072674"></button>
+          <button data-id="OPENSUBTITLES-2016.EN-IT_19072674" class="voice icon stopped" title="Pronuncia" data-lang="it"></button>
+          </div>
+      </div>
+      <button data-id="OPENSUBTITLES-2016.EN-IT_19072674" class="mobile-voice icon stopped played"></button>
+      </div>
+    <div id="OPENSUBTITLES-2012.EN-IT_11102448" class="example">
+      <div class="src ltr">
+        <span class="text" lang='en'>
+          My wife is seeing the chef at a <em>fancy restaurant</em></span>
+      </div>
+      <div class="trg ltr">
+        <span class="icon jump-right"></span>
+        <span class="text">
+          Mia moglie si vede con il cuoco di un <a class="link_highlighted" href='/traduzione/italiano-inglese/ristorante+di+lusso' rel="nofollow"><em>ristorante di lusso</em></a>.</span>
+      </div>
+      <div class="options">
+        <div class="src">
+          <button data-id="OPENSUBTITLES-2012.EN-IT_11102448" class="voice icon stopped" title="Pronuncia" data-lang="en"></button>
+          </div>
+        <div class="trg">
+          <button class="icon more-context" title="Vedi altri contesti per questa traduzione (http://opus.lingfil.uu.se/OpenSubtitles2016.php)" data-id="OPENSUBTITLES-2012.EN-IT_11102448"></button>
+          <button class="report icon thumb-down" title="Segnala un problema su questo esempio" data-id="OPENSUBTITLES-2012.EN-IT_11102448"></button>
+          <button class="add icon addentry " title="Aggiungi la traduzione al dizionario collaborativo Reverso" data-url="http://dizionario.reverso.net/CollabDict.aspx?view=2&lang=IT" data-id="OPENSUBTITLES-2012.EN-IT_11102448" data-text="Mia moglie si vede con il cuoco di un <em>ristorante di lusso</em>."></button>
+          <button class="copy icon mobile-hidden" title="Copia traduzione" data-id="OPENSUBTITLES-2012.EN-IT_11102448"></button>
+          <button class="icon non-favourite " title="Salva l'esempio tra i tuoi preferiti" data-id="OPENSUBTITLES-2012.EN-IT_11102448"></button>
+          <button data-id="OPENSUBTITLES-2012.EN-IT_11102448" class="voice icon stopped" title="Pronuncia" data-lang="it"></button>
+          </div>
+      </div>
+      <button data-id="OPENSUBTITLES-2012.EN-IT_11102448" class="mobile-voice icon stopped played"></button>
+      </div>
+    <div id="OPENSUBTITLES-2012.EN-IT_1342635" class="example">
+      <div class="src ltr">
+        <span class="text" lang='en'>
+          Ozu borrowed all the tableware from a <em>fancy restaurant</em>,</span>
+      </div>
+      <div class="trg ltr">
+        <span class="icon jump-right"></span>
+        <span class="text">
+          Ozu prese in prestito tutti gli oggetti che erano sul tavolo da un <a class="link_highlighted" href='/traduzione/italiano-inglese/ristorante+di+lusso' rel="nofollow"><em>ristorante di lusso</em></a></span>
+      </div>
+      <div class="options">
+        <div class="src">
+          <button data-id="OPENSUBTITLES-2012.EN-IT_1342635" class="voice icon stopped" title="Pronuncia" data-lang="en"></button>
+          </div>
+        <div class="trg">
+          <button class="icon more-context" title="Vedi altri contesti per questa traduzione (http://opus.lingfil.uu.se/OpenSubtitles2016.php)" data-id="OPENSUBTITLES-2012.EN-IT_1342635"></button>
+          <button class="report icon thumb-down" title="Segnala un problema su questo esempio" data-id="OPENSUBTITLES-2012.EN-IT_1342635"></button>
+          <button class="add icon addentry " title="Aggiungi la traduzione al dizionario collaborativo Reverso" data-url="http://dizionario.reverso.net/CollabDict.aspx?view=2&lang=IT" data-id="OPENSUBTITLES-2012.EN-IT_1342635" data-text="Ozu prese in prestito tutti gli oggetti che erano sul tavolo da un <em>ristorante di lusso</em>"></button>
+          <button class="copy icon mobile-hidden" title="Copia traduzione" data-id="OPENSUBTITLES-2012.EN-IT_1342635"></button>
+          <button class="icon non-favourite " title="Salva l'esempio tra i tuoi preferiti" data-id="OPENSUBTITLES-2012.EN-IT_1342635"></button>
+          <button data-id="OPENSUBTITLES-2012.EN-IT_1342635" class="voice icon stopped" title="Pronuncia" data-lang="it"></button>
+          </div>
+      </div>
+      <button data-id="OPENSUBTITLES-2012.EN-IT_1342635" class="mobile-voice icon stopped played"></button>
+      </div>
+    <div id="OPENSUBTITLES-2016.EN-IT_19929466" class="example">
+      <div class="src ltr">
+        <span class="text" lang='en'>
+          We thought you deserved a nice meal in a <em>fancy restaurant</em> for a change.</span>
+      </div>
+      <div class="trg ltr">
+        <span class="icon jump-right"></span>
+        <span class="text">
+          Pensavamo che meritassi di mangiare in un <a class="link_highlighted" href='/traduzione/italiano-inglese/ristorante+di+lusso' rel="nofollow"><em>ristorante di lusso</em></a>, tanto per cambiare un po'.</span>
+      </div>
+      <div class="options">
+        <div class="src">
+          <button data-id="OPENSUBTITLES-2016.EN-IT_19929466" class="voice icon stopped" title="Pronuncia" data-lang="en"></button>
+          </div>
+        <div class="trg">
+          <button class="icon more-context" title="Vedi altri contesti per questa traduzione (http://opus.lingfil.uu.se/OpenSubtitles2016.php)" data-id="OPENSUBTITLES-2016.EN-IT_19929466"></button>
+          <button class="report icon thumb-down" title="Segnala un problema su questo esempio" data-id="OPENSUBTITLES-2016.EN-IT_19929466"></button>
+          <button class="add icon addentry " title="Aggiungi la traduzione al dizionario collaborativo Reverso" data-url="http://dizionario.reverso.net/CollabDict.aspx?view=2&lang=IT" data-id="OPENSUBTITLES-2016.EN-IT_19929466" data-text="Pensavamo che meritassi di mangiare in un <em>ristorante di lusso</em>, tanto per cambiare un po'."></button>
+          <button class="copy icon mobile-hidden" title="Copia traduzione" data-id="OPENSUBTITLES-2016.EN-IT_19929466"></button>
+          <button class="icon non-favourite " title="Salva l'esempio tra i tuoi preferiti" data-id="OPENSUBTITLES-2016.EN-IT_19929466"></button>
+          <button data-id="OPENSUBTITLES-2016.EN-IT_19929466" class="voice icon stopped" title="Pronuncia" data-lang="it"></button>
+          </div>
+      </div>
+      <button data-id="OPENSUBTITLES-2016.EN-IT_19929466" class="mobile-voice icon stopped played"></button>
+      </div>
+    <div id="OPENSUBTITLES-2016.EN-IT_7165832" class="example">
+      <div class="src ltr">
+        <span class="text" lang='en'>
+          My name is Ernesto and I The maitre d'hotel at a <em>fancy restaurant</em>.</span>
+      </div>
+      <div class="trg ltr">
+        <span class="icon jump-right"></span>
+        <span class="text">
+          Mi chiamo Ernesto e faccio il maitre in un <a class="link_highlighted" href='/traduzione/italiano-inglese/ristorante+di+lusso' rel="nofollow"><em>ristorante di lusso</em></a>.</span>
+      </div>
+      <div class="options">
+        <div class="src">
+          <button data-id="OPENSUBTITLES-2016.EN-IT_7165832" class="voice icon stopped" title="Pronuncia" data-lang="en"></button>
+          </div>
+        <div class="trg">
+          <button class="icon more-context" title="Vedi altri contesti per questa traduzione (http://opus.lingfil.uu.se/OpenSubtitles2016.php)" data-id="OPENSUBTITLES-2016.EN-IT_7165832"></button>
+          <button class="report icon thumb-down" title="Segnala un problema su questo esempio" data-id="OPENSUBTITLES-2016.EN-IT_7165832"></button>
+          <button class="add icon addentry " title="Aggiungi la traduzione al dizionario collaborativo Reverso" data-url="http://dizionario.reverso.net/CollabDict.aspx?view=2&lang=IT" data-id="OPENSUBTITLES-2016.EN-IT_7165832" data-text="Mi chiamo Ernesto e faccio il maitre in un <em>ristorante di lusso</em>."></button>
+          <button class="copy icon mobile-hidden" title="Copia traduzione" data-id="OPENSUBTITLES-2016.EN-IT_7165832"></button>
+          <button class="icon non-favourite " title="Salva l'esempio tra i tuoi preferiti" data-id="OPENSUBTITLES-2016.EN-IT_7165832"></button>
+          <button data-id="OPENSUBTITLES-2016.EN-IT_7165832" class="voice icon stopped" title="Pronuncia" data-lang="it"></button>
+          </div>
+      </div>
+      <button data-id="OPENSUBTITLES-2016.EN-IT_7165832" class="mobile-voice icon stopped played"></button>
+      </div>
+    <div id="OPENSUBTITLES-2012.EN-IT_14024476" class="example">
+      <div class="src ltr">
+        <span class="text" lang='en'>
+          But when I do, I want it to be in a <em>fancy restaurant</em> where everybody wants my picture and asking me for my autograph.</span>
+      </div>
+      <div class="trg ltr">
+        <span class="icon jump-right"></span>
+        <span class="text">
+          Ma quando accadrà, voglio che succeda in un <a class="link_highlighted" href='/traduzione/italiano-inglese/ristorante+di+lusso' rel="nofollow"><em>ristorante di lusso</em></a>, dove tutti mi fanno le foto e mi chiedono l'autografo.</span>
+      </div>
+      <div class="options">
+        <div class="src">
+          <button data-id="OPENSUBTITLES-2012.EN-IT_14024476" class="voice icon stopped" title="Pronuncia" data-lang="en"></button>
+          </div>
+        <div class="trg">
+          <button class="icon more-context" title="Vedi altri contesti per questa traduzione (http://opus.lingfil.uu.se/OpenSubtitles2016.php)" data-id="OPENSUBTITLES-2012.EN-IT_14024476"></button>
+          <button class="report icon thumb-down" title="Segnala un problema su questo esempio" data-id="OPENSUBTITLES-2012.EN-IT_14024476"></button>
+          <button class="add icon addentry " title="Aggiungi la traduzione al dizionario collaborativo Reverso" data-url="http://dizionario.reverso.net/CollabDict.aspx?view=2&lang=IT" data-id="OPENSUBTITLES-2012.EN-IT_14024476" data-text="Ma quando accadrà, voglio che succeda in un <em>ristorante di lusso</em>, dove tutti mi fanno le foto e mi chiedono l'autografo."></button>
+          <button class="copy icon mobile-hidden" title="Copia traduzione" data-id="OPENSUBTITLES-2012.EN-IT_14024476"></button>
+          <button class="icon non-favourite " title="Salva l'esempio tra i tuoi preferiti" data-id="OPENSUBTITLES-2012.EN-IT_14024476"></button>
+          <button data-id="OPENSUBTITLES-2012.EN-IT_14024476" class="voice icon stopped" title="Pronuncia" data-lang="it"></button>
+          </div>
+      </div>
+      <button data-id="OPENSUBTITLES-2012.EN-IT_14024476" class="mobile-voice icon stopped played"></button>
+      </div>
+    <div id="OPENSUBTITLES-2016.EN-IT_8969994" class="example">
+      <div class="src ltr">
+        <span class="text" lang='en'>
+          What am I running here, a <em>fancy restaurant</em>?</span>
+      </div>
+      <div class="trg ltr">
+        <span class="icon jump-right"></span>
+        <span class="text">
+          Cos'è questo, un <a class="link_highlighted" href='/traduzione/italiano-inglese/ristorante+di+lusso' rel="nofollow"><em>ristorante di lusso</em></a>?</span>
+      </div>
+      <div class="options">
+        <div class="src">
+          <button data-id="OPENSUBTITLES-2016.EN-IT_8969994" class="voice icon stopped" title="Pronuncia" data-lang="en"></button>
+          </div>
+        <div class="trg">
+          <button class="icon more-context" title="Vedi altri contesti per questa traduzione (http://opus.lingfil.uu.se/OpenSubtitles2016.php)" data-id="OPENSUBTITLES-2016.EN-IT_8969994"></button>
+          <button class="report icon thumb-down" title="Segnala un problema su questo esempio" data-id="OPENSUBTITLES-2016.EN-IT_8969994"></button>
+          <button class="add icon addentry " title="Aggiungi la traduzione al dizionario collaborativo Reverso" data-url="http://dizionario.reverso.net/CollabDict.aspx?view=2&lang=IT" data-id="OPENSUBTITLES-2016.EN-IT_8969994" data-text="Cos'è questo, un <em>ristorante di lusso</em>?"></button>
+          <button class="copy icon mobile-hidden" title="Copia traduzione" data-id="OPENSUBTITLES-2016.EN-IT_8969994"></button>
+          <button class="icon non-favourite " title="Salva l'esempio tra i tuoi preferiti" data-id="OPENSUBTITLES-2016.EN-IT_8969994"></button>
+          <button data-id="OPENSUBTITLES-2016.EN-IT_8969994" class="voice icon stopped" title="Pronuncia" data-lang="it"></button>
+          </div>
+      </div>
+      <button data-id="OPENSUBTITLES-2016.EN-IT_8969994" class="mobile-voice icon stopped played"></button>
+      </div>
+    <div id="OPENSUBTITLES-2016.EN-IT_22592963" class="example blocked">
+      <div class="src ltr">
+        <span class="text" lang='en'>
+          Let's just go to a <em>fancy restaurant</em> and eat all the food!</span>
+      </div>
+      <div class="trg ltr">
+        <span class="icon jump-right"></span>
+        <span class="text">
+          Andiamo in un <a class="link_highlighted" href='/traduzione/italiano-inglese/bel+ristorante' rel="nofollow"><em>bel ristorante</em></a> e mangiamo tutto!</span>
+      </div>
+      <div class="options">
+        <div class="src">
+          <button data-id="OPENSUBTITLES-2016.EN-IT_22592963" class="voice icon stopped" title="Pronuncia" data-lang="en"></button>
+          </div>
+        <div class="trg">
+          <button class="icon more-context" title="Vedi altri contesti per questa traduzione (http://opus.lingfil.uu.se/OpenSubtitles2016.php)" data-id="OPENSUBTITLES-2016.EN-IT_22592963"></button>
+          <button class="report icon thumb-down" title="Segnala un problema su questo esempio" data-id="OPENSUBTITLES-2016.EN-IT_22592963"></button>
+          <button class="add icon addentry " title="Aggiungi la traduzione al dizionario collaborativo Reverso" data-url="http://dizionario.reverso.net/CollabDict.aspx?view=2&lang=IT" data-id="OPENSUBTITLES-2016.EN-IT_22592963" data-text="Andiamo in un <em>bel ristorante</em> e mangiamo tutto!"></button>
+          <button class="copy icon mobile-hidden" title="Copia traduzione" data-id="OPENSUBTITLES-2016.EN-IT_22592963"></button>
+          <button class="icon non-favourite " title="Salva l'esempio tra i tuoi preferiti" data-id="OPENSUBTITLES-2016.EN-IT_22592963"></button>
+          <button data-id="OPENSUBTITLES-2016.EN-IT_22592963" class="voice icon stopped" title="Pronuncia" data-lang="it"></button>
+          </div>
+      </div>
+      <button data-id="OPENSUBTITLES-2016.EN-IT_22592963" class="mobile-voice icon stopped played"></button>
+      </div>
+    <div id="OPENSUBTITLES-2016.EN-IT_17381162" class="example blocked">
+      <div class="src ltr">
+        <span class="text" lang='en'>
+          Manage to get into that <em>fancy restaurant</em> yet?</span>
+      </div>
+      <div class="trg ltr">
+        <span class="icon jump-right"></span>
+        <span class="text">
+          Hai trovato un posto in quel <a class="link_highlighted" href='/traduzione/italiano-inglese/bel+ristorante' rel="nofollow"><em>bel ristorante</em></a>?</span>
+      </div>
+      <div class="options">
+        <div class="src">
+          <button data-id="OPENSUBTITLES-2016.EN-IT_17381162" class="voice icon stopped" title="Pronuncia" data-lang="en"></button>
+          </div>
+        <div class="trg">
+          <button class="icon more-context" title="Vedi altri contesti per questa traduzione (http://opus.lingfil.uu.se/OpenSubtitles2016.php)" data-id="OPENSUBTITLES-2016.EN-IT_17381162"></button>
+          <button class="report icon thumb-down" title="Segnala un problema su questo esempio" data-id="OPENSUBTITLES-2016.EN-IT_17381162"></button>
+          <button class="add icon addentry " title="Aggiungi la traduzione al dizionario collaborativo Reverso" data-url="http://dizionario.reverso.net/CollabDict.aspx?view=2&lang=IT" data-id="OPENSUBTITLES-2016.EN-IT_17381162" data-text="Hai trovato un posto in quel <em>bel ristorante</em>?"></button>
+          <button class="copy icon mobile-hidden" title="Copia traduzione" data-id="OPENSUBTITLES-2016.EN-IT_17381162"></button>
+          <button class="icon non-favourite " title="Salva l'esempio tra i tuoi preferiti" data-id="OPENSUBTITLES-2016.EN-IT_17381162"></button>
+          <button data-id="OPENSUBTITLES-2016.EN-IT_17381162" class="voice icon stopped" title="Pronuncia" data-lang="it"></button>
+          </div>
+      </div>
+      <button data-id="OPENSUBTITLES-2016.EN-IT_17381162" class="mobile-voice icon stopped played"></button>
+      </div>
+    <div id="OPENSUBTITLES-2016.EN-IT_20794990" class="example blocked">
+      <div class="src ltr">
+        <span class="text" lang='en'>
+          I can eat my dinner in a <em>fancy restaurant</em></span>
+      </div>
+      <div class="trg ltr">
+        <span class="icon jump-right"></span>
+        <span class="text">
+          posso cenare in un bel ristorante. posso cenare in un <a class="link_highlighted" href='/traduzione/italiano-inglese/bel+ristorante' rel="nofollow"><em>bel ristorante</em></a>.</span>
+      </div>
+      <div class="options">
+        <div class="src">
+          <button data-id="OPENSUBTITLES-2016.EN-IT_20794990" class="voice icon stopped" title="Pronuncia" data-lang="en"></button>
+          </div>
+        <div class="trg">
+          <button class="icon more-context" title="Vedi altri contesti per questa traduzione (http://opus.lingfil.uu.se/OpenSubtitles2016.php)" data-id="OPENSUBTITLES-2016.EN-IT_20794990"></button>
+          <button class="report icon thumb-down" title="Segnala un problema su questo esempio" data-id="OPENSUBTITLES-2016.EN-IT_20794990"></button>
+          <button class="add icon addentry " title="Aggiungi la traduzione al dizionario collaborativo Reverso" data-url="http://dizionario.reverso.net/CollabDict.aspx?view=2&lang=IT" data-id="OPENSUBTITLES-2016.EN-IT_20794990" data-text="posso cenare in un bel ristorante. posso cenare in un <em>bel ristorante</em>."></button>
+          <button class="copy icon mobile-hidden" title="Copia traduzione" data-id="OPENSUBTITLES-2016.EN-IT_20794990"></button>
+          <button class="icon non-favourite " title="Salva l'esempio tra i tuoi preferiti" data-id="OPENSUBTITLES-2016.EN-IT_20794990"></button>
+          <button data-id="OPENSUBTITLES-2016.EN-IT_20794990" class="voice icon stopped" title="Pronuncia" data-lang="it"></button>
+          </div>
+      </div>
+      <button data-id="OPENSUBTITLES-2016.EN-IT_20794990" class="mobile-voice icon stopped played"></button>
+      </div>
+    <div id="OPENSUBTITLES-2016.EN-IT_23221710" class="example blocked">
+      <div class="src ltr">
+        <span class="text" lang='en'>
+          And then she tells me she's a maitre d' at this <em>fancy restaurant</em> 'cause she's too embarrassed to say she's a waitress.</span>
+      </div>
+      <div class="trg ltr">
+        <span class="icon jump-right"></span>
+        <span class="text">
+          E poi mi dice che fa il maitre in un <a class="link_highlighted" href='/traduzione/italiano-inglese/ristorante+elegante' rel="nofollow"><em>ristorante elegante</em></a> perché si vergogna di dire che fa la cameriera.</span>
+      </div>
+      <div class="options">
+        <div class="src">
+          <button data-id="OPENSUBTITLES-2016.EN-IT_23221710" class="voice icon stopped" title="Pronuncia" data-lang="en"></button>
+          </div>
+        <div class="trg">
+          <button class="icon more-context" title="Vedi altri contesti per questa traduzione (http://opus.lingfil.uu.se/OpenSubtitles2016.php)" data-id="OPENSUBTITLES-2016.EN-IT_23221710"></button>
+          <button class="report icon thumb-down" title="Segnala un problema su questo esempio" data-id="OPENSUBTITLES-2016.EN-IT_23221710"></button>
+          <button class="add icon addentry " title="Aggiungi la traduzione al dizionario collaborativo Reverso" data-url="http://dizionario.reverso.net/CollabDict.aspx?view=2&lang=IT" data-id="OPENSUBTITLES-2016.EN-IT_23221710" data-text="E poi mi dice che fa il maitre in un <em>ristorante elegante</em> perché si vergogna di dire che fa la cameriera."></button>
+          <button class="copy icon mobile-hidden" title="Copia traduzione" data-id="OPENSUBTITLES-2016.EN-IT_23221710"></button>
+          <button class="icon non-favourite " title="Salva l'esempio tra i tuoi preferiti" data-id="OPENSUBTITLES-2016.EN-IT_23221710"></button>
+          <button data-id="OPENSUBTITLES-2016.EN-IT_23221710" class="voice icon stopped" title="Pronuncia" data-lang="it"></button>
+          </div>
+      </div>
+      <button data-id="OPENSUBTITLES-2016.EN-IT_23221710" class="mobile-voice icon stopped played"></button>
+      </div>
+    <div id="OPENSUBTITLES-2016.EN-IT_22621255" class="example blocked">
+      <div class="src ltr">
+        <span class="text" lang='en'>
+          This is such a <em>fancy restaurant</em>.</span>
+      </div>
+      <div class="trg ltr">
+        <span class="icon jump-right"></span>
+        <span class="text">
+          È proprio un <a class="link_highlighted" href='/traduzione/italiano-inglese/ristorante+elegante' rel="nofollow"><em>ristorante elegante</em></a>.</span>
+      </div>
+      <div class="options">
+        <div class="src">
+          <button data-id="OPENSUBTITLES-2016.EN-IT_22621255" class="voice icon stopped" title="Pronuncia" data-lang="en"></button>
+          </div>
+        <div class="trg">
+          <button class="icon more-context" title="Vedi altri contesti per questa traduzione (http://opus.lingfil.uu.se/OpenSubtitles2016.php)" data-id="OPENSUBTITLES-2016.EN-IT_22621255"></button>
+          <button class="report icon thumb-down" title="Segnala un problema su questo esempio" data-id="OPENSUBTITLES-2016.EN-IT_22621255"></button>
+          <button class="add icon addentry " title="Aggiungi la traduzione al dizionario collaborativo Reverso" data-url="http://dizionario.reverso.net/CollabDict.aspx?view=2&lang=IT" data-id="OPENSUBTITLES-2016.EN-IT_22621255" data-text="È proprio un <em>ristorante elegante</em>."></button>
+          <button class="copy icon mobile-hidden" title="Copia traduzione" data-id="OPENSUBTITLES-2016.EN-IT_22621255"></button>
+          <button class="icon non-favourite " title="Salva l'esempio tra i tuoi preferiti" data-id="OPENSUBTITLES-2016.EN-IT_22621255"></button>
+          <button data-id="OPENSUBTITLES-2016.EN-IT_22621255" class="voice icon stopped" title="Pronuncia" data-lang="it"></button>
+          </div>
+      </div>
+      <button data-id="OPENSUBTITLES-2016.EN-IT_22621255" class="mobile-voice icon stopped played"></button>
+      </div>
+    <div id="blocked-results-banner" class="popup wide-container">
+      <div class="header">
+        <button class="icon close"></button>
+      </div>
+      <div class="body">
+        <span>Registrati per consultare più esempi</span>
+        <div class="buttons-content">
+          <a href="https://account.reverso.net/register/context.reverso.net/it?utm_source=contextweb&utm_medium=blockedexamples&utm_campaign=register" class="button register">Registrati</a>
+          <a href="https://account.reverso.net/login/context.reverso.net/it?utm_source=contextweb&utm_medium=blockedexamples&utm_campaign=login" class="button login">Connettiti</a>
+        </div>
+      </div>
+    </div>
+  </section>
+<section id="no-results">
+  <span class="wide-container message">Nessun risultato trovato per questo significato.</span>
+  <div class="wide-container">
+      <button id="add-example" title="Suggerisci un esempio per &quot;fancy restaurant&quot;" data-ga="display-noexamples">Suggerisci un esempio</button>
+    </div>
+  </section>
+<section id="examples-bottom">
+  <div class="loading-pannel">
+  <span class="icon"></span>
+</div>
+<button id="load-more-examples" class="button load-more unregistered">Carica altri esempi</button>
+  <div id="result-info" class="wide-container" data-exact="42">
+      <p>Risultati: <span id="nrows">42</span>. Esatti: <span id="nrows_exact">42</span>. Tempo di risposta: <span id="time">49</span> ms.</p>
+    </div>
+  <div class="wide-container">
+      <button id="add-example" title="Suggerisci un esempio per &quot;fancy restaurant&quot;" data-ga="display-examplesbottom">Suggerisci un esempio</button>
+    </div>
+  </section>
+</div>
+  <!-- /64378609/Context_MegaBanner_Bottom -->
+  <div id="bottom-mega-rca-box" class="hidden">
+    <div id='div-gpt-ad-Reverso_Ctxt_D_Result_728x90_BTF' class="bottom-rca mega-rca">
+      <script type='text/javascript'>
+        if(!window.mobilecheck()) {
+          googletag.cmd.push(function() {
+            googletag.display('div-gpt-ad-Reverso_Ctxt_D_Result_728x90_BTF');
+          });
+        }
+      </script>
+    </div>
+    <span class="rca-title rca-title-vertical bottom-rca">Pubblicità</span>
+  </div>
+</section>
+<section id="sitemaps">
+  <p>Parole frequenti: <a href="/traduzione/index/inglese-italiano/w-1-300.html">1-300</a>, <a href="/traduzione/index/inglese-italiano/w-301-600.html">301-600</a>, <a href="/traduzione/index/inglese-italiano/w-601-900.html">601-900</a>, <a href="/traduzione/index/inglese-italiano/w.html">Altro</a><p>Espressioni brevi frequenti: <a href="/traduzione/index/inglese-italiano/e-1-400.html">1-400</a>, <a href="/traduzione/index/inglese-italiano/e-401-800.html">401-800</a>, <a href="/traduzione/index/inglese-italiano/e-801-1200.html">801-1200</a>, <a href="/traduzione/index/inglese-italiano/e.html">Altro</a><p>Espressioni lunghe frequenti: <a href="/traduzione/index/inglese-italiano/p-1-400.html">1-400</a>, <a href="/traduzione/index/inglese-italiano/p-401-800.html">401-800</a>, <a href="/traduzione/index/inglese-italiano/p-801-1200.html">801-1200</a>, <a href="/traduzione/index/inglese-italiano/p.html">Altro</a></section>
+<p class="developers wide-container">Powered by Prompsit Language Engineering per Softissimo</p>
+<section id="footer">
+  <div class="wide-container">
+    <a href="/traduzione/about">Informazioni sul dizionario contestuale</a>
+    <a class="app-link" href="/traduzione/applicazione-mobile">Scarica l'app</a>
+    <a target="_blank" href="http://www.reverso.net/feedback.aspx?type=3&lang=IT">Contatto</a>
+    <a href="/traduzione/legal">Considerazioni legali</a>
+  </div>
+  <div class="wide-container">
+    <a href="/translation/">Translation in context</a><a href="/traduction/">Traduction en contexte</a><a href="/traduccion/">Traducción en contexto</a><a href="/traducao/">Tradução em contexto</a><a href="/übersetzung/">Übersetzung im Kontext</a><a href="/الترجمة/">الترجمة في السياق</a><a href="/翻訳/">文脈に沿った翻訳</a><a href="/vertaling/">Vertaling in context</a><a href="/תרגום/">תרגום בהקשר</a><a href="/перевод/">Перевод в контексте</a><a href="/tłumaczenie/">Tłumaczenie w kontekście</a><a href="/traducere/">Traducere în context</a></div>
+  <div class="wide-container">
+    </div>
+  <p class="copy">&copy; 2017 Softissimo Inc. Tutti i diritti riservati.</p>
+</section>
+</div>
+    <script type="text/javascript" src="https://cdn.reverso.net/context/v4101/js/bst.constants-it.js"></script>
+<script type="text/javascript" src="https://cdn.reverso.net/context/v4101/js/bst.scripts.js"></script>
+<noscript>
+  <img src="//pixel.quantserve.com/pixel/p-9z6v4xdJwT5Z-.gif?labels=context" style="display: none;" height="1" width="1" alt=""/>
+  <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1090291004350551&ev=PageView&noscript=1" alt=""/>
+</noscript>
+</body>
+</html>

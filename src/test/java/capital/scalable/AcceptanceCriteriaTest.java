@@ -1,6 +1,10 @@
 package capital.scalable;
 
 import capital.scalable.fake.FakePageRetriever;
+import capital.scalable.webcrawler.GoogleQueryFormatter;
+import capital.scalable.webcrawler.JSLibrary;
+import capital.scalable.webcrawler.Top5Strategy;
+import capital.scalable.webcrawler.TopJSLibraries;
 import org.junit.Test;
 
 import java.util.List;
