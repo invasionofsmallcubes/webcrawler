@@ -1,5 +1,7 @@
 package capital.scalable;
 
+import capital.scalable.fake.FakePage;
+import capital.scalable.fake.FakePageRetriever;
 import org.junit.Test;
 
 import java.util.List;
@@ -10,21 +12,22 @@ import static org.junit.Assert.assertThat;
 
 
 public class GooglePagesTest {
+
     @Test
     public void emptyResult() {
-        PageRetriever pageRetriever = new PageRetriever();
+        FakePageRetriever pageRetriever = new FakePageRetriever();
         List<Page> pages = pageRetriever.fetch("");
         assertThat(pages.size(), is(0));
     }
 
     @Test
     public void someResult() {
-        PageRetriever pageRetriever = new PageRetriever();
+        FakePageRetriever pageRetriever = new FakePageRetriever();
         List<Page> pages = pageRetriever.fetch("my+query");
         assertThat(pages, contains(aPage("A")));
     }
 
     private Page aPage(String link) {
-        return new Page(link);
+        return new FakePage(link);
     }
 }

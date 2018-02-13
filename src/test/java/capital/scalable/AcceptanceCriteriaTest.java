@@ -1,5 +1,6 @@
 package capital.scalable;
 
+import capital.scalable.fake.FakePageRetriever;
 import org.junit.Test;
 
 import java.util.List;
@@ -11,7 +12,7 @@ import static org.junit.Assert.assertThat;
 public class AcceptanceCriteriaTest {
 
     private final TopJSLibraries topJSLibraries = new TopJSLibraries(new GoogleQueryFormatter(),
-            new PageRetriever(), new Top5Strategy());
+            new FakePageRetriever(), new Top5Strategy());
 
     @Test
     public void emptyResult() {
