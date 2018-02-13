@@ -1,8 +1,10 @@
 package capital.scalable;
 
-import java.util.Arrays;
 import java.util.List;
 import java.util.Objects;
+
+import static java.util.Arrays.asList;
+import static java.util.Collections.emptyList;
 
 public class Page {
     private String link;
@@ -21,13 +23,30 @@ public class Page {
 
     @Override
     public int hashCode() {
-
         return Objects.hash(link);
     }
 
     public List<JSLibrary> fetchJSLibraries() {
-        return Arrays.asList(new JSLibrary("a"),
-                new JSLibrary("b"), new JSLibrary("d"),
-                new JSLibrary("e"),new JSLibrary("f"));
+
+        switch (link) {
+            case "A":
+                return asList(new JSLibrary("a"),
+                        new JSLibrary("b"), new JSLibrary("c"),
+                        new JSLibrary("d"), new JSLibrary("e"));
+            case "B":
+                return asList(new JSLibrary("a"),
+                        new JSLibrary("b"), new JSLibrary("c"),
+                        new JSLibrary("d"));
+            case "C":
+                return asList(new JSLibrary("a"),
+                        new JSLibrary("b"), new JSLibrary("c"));
+            case "D":
+                return asList(new JSLibrary("a"),
+                        new JSLibrary("b"));
+            case "E":
+                return asList(new JSLibrary("a"));
+            default:
+                return emptyList();
+        }
     }
 }

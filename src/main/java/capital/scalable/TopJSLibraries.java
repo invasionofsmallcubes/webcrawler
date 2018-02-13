@@ -1,29 +1,30 @@
 package capital.scalable;
 
 import java.util.List;
-import java.util.stream.Collectors;
 import java.util.stream.Stream;
-
-import static java.util.stream.Collectors.toList;
 
 public class TopJSLibraries {
     private final GoogleQueryFormatter googleQueryFormatter;
     private final PageRetriever pageRetriever;
+    private Top5Strategy top5Strategy;
 
-    TopJSLibraries(GoogleQueryFormatter googleQueryFormatter, PageRetriever pageRetriever) {
+    TopJSLibraries(GoogleQueryFormatter googleQueryFormatter, PageRetriever pageRetriever, Top5Strategy top5Strategy) {
         this.googleQueryFormatter = googleQueryFormatter;
         this.pageRetriever = pageRetriever;
+        this.top5Strategy = top5Strategy;
     }
 
-    public List<JSLibrary> fetch(String ... queryParams) {
+    public List<JSLibrary> fetch(String... queryParams) {
+
         String query = googleQueryFormatter.format(queryParams);
         List<Page> pages = pageRetriever.fetch(query);
 
-        List<JSLibrary> jsLibraryStream = pages.stream()
+        Stream<JSLibrary> allJsLibraries = pages.stream()
                 .map(Page::fetchJSLibraries)
-                .flatMap(List::stream)
-                .collect(toList());
+                .flatMap(List::stream);
 
-        return jsLibraryStream;
+        List<JSLibrary> result = top5Strategy.extract(allJsLibraries);
+
+        return result;
     }
 }
